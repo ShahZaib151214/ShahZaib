@@ -2,11 +2,12 @@ import React, { useState, useEffect, useRef } from "react";
 import "./About.css";
 import { PiReadCvLogoFill } from "react-icons/pi";
 import { toast, ToastContainer } from "react-toastify";
+import { assets } from "../assets/assets";
 
 const About = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/ATS_ShahZaibCV.pdf";
+    link.href = assets.cv;
     link.download = "ShahZaib_Resume.pdf";
     document.body.appendChild(link);
     link.click();
