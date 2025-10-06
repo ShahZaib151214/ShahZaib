@@ -7,7 +7,8 @@ import { assets } from "../assets/assets";
 const About = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = assets.cv;
+    link.href = "../assets/ATS_ShahZaibCV.pdf";
+    link.target = "_blank";
     link.download = "ShahZaib_Resume.pdf";
     document.body.appendChild(link);
     link.click();
