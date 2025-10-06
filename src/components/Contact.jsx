@@ -90,8 +90,8 @@ const Contact = () => {
     {
       icon: <MdMarkEmailUnread />,
       title: "Email",
-      value: "syedshahzaibshahkazmi786@gmail.com",
-      link: "mailto:syedshahzaibshahkazmi786@gmail.com",
+      value: "shahshahzaibkazmi@gmail.com",
+      link: "mailto:shahshahzaibkazmi@gmail.com",
     },
     {
       icon: <CiMobile2 />,

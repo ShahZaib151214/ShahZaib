@@ -73,6 +73,7 @@ const Hero = () => {
               <span className="badge">Node.js</span>
               <span className="badge">PHP</span>
               <span className="badge">Express js</span>
+              <span className="badge">MongoDB</span>
             </div>
           </div>
         </div>

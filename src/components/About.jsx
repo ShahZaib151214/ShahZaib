@@ -28,6 +28,7 @@ const About = () => {
     { name: "C++", level: 75, color: "#1572b6" },
     { name: "KOTLIN", level: 60, color: "#1572b6" },
     { name: "EXPRESS.js", level: 60, color: "#47a248" },
+    { name: "MONGODB", level: 60, color: "#f7df1e" },
   ];
 
   useEffect(() => {
