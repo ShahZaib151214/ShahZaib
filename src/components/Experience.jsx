@@ -35,6 +35,20 @@ const Experience = () => {
         " Advanced Frontend Development and Deployment",
       ],
     },
+    {
+      title: "Generative AI Application Developer",
+      company: "Pak Angles , Aspire Pakistan",
+      duration: "6 Weeks",
+      location: "Khushab , Pakistan",
+      description: `This journey strengthened my understanding of Generative AI concepts, real-world AI applications, and responsible AI development, and motivated me to continue building innovative solutions that create real impact.`,
+      technologies: ["Python"],
+      image: assets.genai,
+      achievements: [
+        " Successfully completed NCEAC HEC Generative AI Training",
+        " Learned to design real world AI solutions with a focus on scalability and ethical AI practices",
+        " Collaborated with industry professionals and mentors during structured AI training sessions",
+      ],
+    },
   ];
 
   useEffect(() => {

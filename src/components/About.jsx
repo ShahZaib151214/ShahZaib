@@ -2,14 +2,14 @@ import React, { useState, useEffect, useRef } from "react";
 import "./About.css";
 import { PiReadCvLogoFill } from "react-icons/pi";
 import { toast, ToastContainer } from "react-toastify";
-import { assets } from "../assets/assets";
+import Resume from "../assets/ShahZaib.pdf";
 
 const About = () => {
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "../assets/ATS_ShahZaibCV.pdf";
+    link.href = Resume;
     link.target = "_blank";
-    link.download = "ShahZaib_Resume.pdf";
+    link.download = "ShahZaib.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

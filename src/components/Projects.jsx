@@ -52,6 +52,17 @@ const Projects = () => {
       link: "https://shahzaibkaz.github.io/ShahZaibPortfolio/",
       github: "https://github.com/ShahZaib151214",
     },
+    {
+      id: 5,
+      title: "Agri Chat ",
+      category: "fullstack",
+      description:
+        "Agri Chat is a MERN stack based web application that provides farmers and agriculture enthusiasts with AI-powered chat assistance. The platform includes a secure authentication system and enables users to ask agriculture-related questions and receive intelligent responses from an AI model",
+      image: assets.agrichat,
+      technologies: ["React js", "Node js", "Express js", "MongoDB"],
+      link: "https://agri-gpt-pk-frontend.vercel.app/",
+      github: "https://github.com/ShahZaib151214",
+    },
   ];
 
   const filters = [
