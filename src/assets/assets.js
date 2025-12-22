@@ -1,4 +1,4 @@
-import profile from "./picture.png";
+import profile from "./profile.png";
 import clothing from "./ClothingThumbnail.png";
 import electronic from "./ElectronicThumbnail.png";
 import groceries from "./GroceriesThumbnail.png";
