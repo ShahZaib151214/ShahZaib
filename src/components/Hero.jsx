@@ -43,12 +43,14 @@ const Hero = () => {
           </div>
 
           <p className="hero-description">
-            Full-Stack Web Developer skilled in building responsive,
-            user-friendly interfaces with HTML, CSS, JavaScript, Bootstrap,
-            Tailwind CSS, and React.js. Proficient in PHP and MySQL for
-            developing secure, efficient back-end systems. Passionate about
-            creating seamless, high-quality solutions that balance performance,
-            design, and functionality.
+            Full Stack Web Developer with strong experience in building
+            responsive and user friendly interfaces using HTML, CSS, JavaScript,
+            Bootstrap, Tailwind CSS, and React.js. Skilled in developing secure
+            and efficient backend systems with PHP and MySQL, and actively
+            working with the MERN stack (MongoDB, Express.js, React, and
+            Node.js) to create modern, scalable web applications. Passionate
+            about delivering seamless digital experiences by balancing clean
+            design, performance, and real world functionality.
           </p>
 
           <div className="hero-buttons">

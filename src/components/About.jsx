@@ -60,10 +60,10 @@ const About = () => {
             <p className="about-description">
               I'm a passionate Web Developer & Designer who loves turning ideas
               into beautiful, functional websites. I focus on writing clean code
-              and crafting smooth, user-friendly experiences using modern web
+              and crafting smooth, user friendly experiences using modern web
               technologies. I have over 3 years of hands-on experience, I've
-              worked on everything from simple landing pages to full-scale web
-              applications — always with attention to detail and performance.
+              worked on everything from simple landing pages to full scale web
+              applications always with attention to detail and performance.
             </p>
 
             <div className="stats-container">
